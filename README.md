@@ -6,6 +6,7 @@
 4. Компиляция: icl -o Example -openmp optim.cpp
    На выходе: optim.obj и Example.exe
   Ключи компиляции можно найти в оффициальной документации Intel или, например, https://habr.com/company/intel/blog/256251/
+
 Компиляция в Visual Studio
 1. В свойствах проекта:
    
